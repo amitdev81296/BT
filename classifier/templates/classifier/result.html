@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Result</title>
+</head>
+<body>
+    {% if verb %}
+        <h1>{{ verb }} ---------------> {{ category }}</h1>
+    {% else %}
+        <h1>You Have Not Submitted A Question!<br>To Submit A Question Go <a href="/classifier">Here</a></h1>
+    {% endif %}
+</body>
+</html>
