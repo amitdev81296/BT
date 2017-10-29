@@ -1,14 +1,44 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Result</title>
-</head>
-<body>
-    {% if verb %}
-        <h1>{{ verb }} ---------------> {{ category }}</h1>
-    {% else %}
-        <h1>You Have Not Submitted A Question!<br>To Submit A Question Go <a href="/classifier">Here</a></h1>
-    {% endif %}
-</body>
-</html>
+{% extends "classifier/base.html" %}
+
+{% block title %}<title>Result</title>{% endblock %}
+
+{% block page_body %}
+    <style>
+        td, th {
+            font-size: 20px;
+        }
+        .container {
+            padding-top: 13%;
+            padding-left: 31%;
+        }
+        .resizedTextbox {width: 300px; height: 20px}
+        .demo-card-wide.mdl-card {
+            width: 512px;
+        }
+        .demo-card-wide > .mdl-card__menu {
+            color: #fff;
+        }
+    </style>
+    <div class="container">
+        <div style="padding: 5%" class="demo-card-wide mdl-card mdl-shadow--2d">
+            <div class="mdl-card__title">
+                <h2 class="mdl-card__title-text">Your Question Has Been Classified</h2>
+            </div>
+            <center><table style="width: 100%">
+                <thead>
+                    <tr>
+                        <th>Extracted Verb</th>
+                        <th>BCL</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td align="center">{{ verb }}</td>
+                        <td align="center">{{ category }}</td>
+                    </tr>
+                </tbody>
+            </table></center>
+            <a href="/classifier" class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">Try Another Question</a>
+        </div>
+    </div>
+{% endblock %}
