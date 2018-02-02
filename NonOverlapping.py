@@ -5,7 +5,7 @@ import nltk
 import csv,re
 dataset='dataset.csv'
 output_file='dataset_output.csv'
-verblist="non_overlapping_verbs.csv"
+verblist="verbs_list.csv"
 
 def WriteToFile(output_file,row,verb):
 	with open(output_file,"w") as OP:
@@ -29,25 +29,28 @@ def SelectVerbCategory(verblist,verb):
 	else:
 		return("Overlapping")
 
-
+print(SelectVerbCategory(verblist,"Explain"))
 def processContent(dataset):
 	try:
 		with open(dataset,'r+') as dataset:
 			csvReader=csv.reader(dataset)
 			for row in dataset:
 				tokenData=sent_tokenize(row)   #sentence tokennizer used to split in case of multiplequestions in same sub-questions
-				if len(tokenData) ==1:
-					word_token=word_tokenize(row)
-					pos=pos_tag(word_token)
-					for (word,tag) in pos:
-						if re.match(r"VB[A-Z]*",tag):
-							category=SelectVerbCategory(verblist,word)
-				WriteToFile(output_file,row,category)
-							
+				#if len(tokenData) ==1:
+				word_token=word_tokenize(row)
+				pos=pos_tag(word_token)
+				
+				
+				for t in pos:
+					if t[1]=="VB":
+						print(t[0])
+						category=SelectVerbCategory(verblist,t[1])
+						#print(category)
+						WriteToFile(output_file,row,category)
 		dataset.close()
 	except Exception as e:
 		print(str(e))
 
-processContent(dataset)
+#processContent(dataset)
 
 
