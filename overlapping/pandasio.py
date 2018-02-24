@@ -17,14 +17,20 @@ def WriteToFile(df):
 	writer.save()
 
 dataframe_op=RemoveDuplicatesAndOverlapping(file)
-#writing_to_file=WriteToFile(dataframe_op)
+writing_to_file=WriteToFile(dataframe_op)
 np_array=dataframe_op.values
 train=np_array[:450,0:3]
 test=np_array[-1:-50,0]
 vect=CountVectorizer()
 a=np_array[:,0]
+
 vect.fit(a)
+
 #print()
 #vect.get_feature_names()  //names of tokens created
 dtm=vect.transform(a)
-print(repr(dtm))
+print("Shape of Sparse Matrix:"+str(dtm.shape))
+print("Non-Zero occurences:"+str(dtm.nnz))
+
+#print(pd.DataFrame(dtm.toarray(), columns=vect.get_feature_names()))
+
