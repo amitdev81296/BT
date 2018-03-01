@@ -13,7 +13,7 @@ def RemoveDuplicatesAndOverlapping(file):
 def WriteToFile(df):
 	np_array=df.values
 	writer =pd.ExcelWriter('overlapping.xlsx')
-	df.to_excel(writer,'Sheet1')
+	df.to_excel(writer,'Sheet2')
 	writer.save()
 
 dataframe_op=RemoveDuplicatesAndOverlapping(file)
