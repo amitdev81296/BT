@@ -1,0 +1,48 @@
+{% extends "classifier/base.html" %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    {% block title %}
+    <title>Download File</title>
+    {% endblock %}>
+</head>
+{% block page_body %}
+<style>
+        .demo-card-wide.mdl-card {
+            width: 600px;
+        }
+        .demo-card-wide > .mdl-card__title {
+            color: #fff;
+            height: 176px;
+            background: url('https://studyinthestates.dhs.gov/sites/default/files/welcome_image_illustration_v2.svg') center / cover;
+            background-color: #92a8d1;
+        }
+        .demo-card-wide > .mdl-card__menu {
+            color: #fff;
+        }
+    </style>
+    <body style="background-color: #deeaee;">
+<br><br><br><br><br><br><br><br>
+<div class="mdl-grid">
+    <div class="mdl-cell mdl-cell--middle mdl-cell--3-offset">
+        <div class="my_card demo-card-wide mdl-card mdl-shadow--2dp">
+            <div class="mdl-card__title">
+            </div>
+            <center><div class="mdl-card__supporting-text">
+            Download the .CSV file containing the classified questions
+            </div></center>
+            <center><div class="mdl-card__actions mdl-card--border">
+              <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" href="http://127.0.0.1:8000/media/output.csv" download>DOWNLOAD</a>
+            </div></center>
+            <div class="mdl-card__menu">
+                <button class="mdl-button mdl-button--icon mdl-js-button mdl-js-ripple-effect">
+                    <i class="material-icons">share</i>
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+{% endblock %}
+</html>

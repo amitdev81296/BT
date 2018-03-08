@@ -1,6 +1,8 @@
 {% extends "classifier/base.html" %}
 {% block title %}<title>Index Page</title>{% endblock %}
 {% block page_body %}
+{% load staticfiles %}
+{% load widget_tweaks %}
     <style>
         body {
             background-color: #deeaee;
@@ -17,7 +19,7 @@
             color: #fff;
         }
     </style>
-    <form method="Post" action="/result">
+    <form method="POST" enctype="multipart/form-data">
         {% csrf_token %}
         <!--<label>Enter Your Question</label><br>
             <input type="text" width="300px" maxlength="400" class="resizedTextbox" name="input_question" /><br><br>
@@ -27,11 +29,12 @@
                     <div class="mdl-card__title">
                         <h2 class="mdl-card__title-text">Bloom's Taxonomy</h2>
                     </div>
-                    <div class="mdl-card__supporting-text">Enter Your question</div>
                     <div class="mdl-textfield mdl-js-textfield">
-                        <input class="mdl-textfield__input" type="text" id="input_question" name="input_question" required>
+                        {% render_field form.file %}
+                        <button type="submit" class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored">
+                            CLASSIFY
+                        </button>
                     </div>
-                    <button type="submit" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent">SUBMIT</button>
                 </div>
             </div>
     </form>

@@ -1,10 +1,13 @@
 # List of verbs of individual category
-Creating = ["generate", "combine", "construct", "formulate", "propose"]
-Evaluating = ["justify", "conclude", "evaluate", "determine", "verify"]
-Analyzing = ["distinguish", "compare", "classify", "categorize"]
-Applying = ["change", "demonstrate", "modify", "solve", "show"]
-Understanding = ["explain", "convert", "estimate", "derive", "review", "relate"]
-Remembering = ["name", "list", "define", "label", "sketch", "identify"]
+Creating = ["change", "combine", "compile", "compose", "create", "delete", "design", "elaborate", "formulate", "improve", "invent", "maximize", "minimize", "modify", "predict", "propose", "solve"]
+Evaluating = ["explain", "justify", "appraise", "assess", "award", "agree", "criticize", "decide", "deduce", "defend", "determine", "disprove", "evaluate", "judge", "mark", "measure", "perceive", "prioritize"]
+Analyzing = ["categorize", "analyze", "discover", "dissect", "compare", "differentiate", "distinguish", "divide", "examine", "inspect", "relate", "simplify", "survey", "test"]
+Applying = ["make", "organize", "apply", "experiment", "interview", "model", "utilize"]
+Understanding = ["demonstrate", "extend", "illustrate", "infer", "outline", "rephrase", "summarize", "translate", "discuss", "explain"]
+Remembering = ["find", "define", "label", "match", "name", "recall", "spell", "tell", ]
+
+# List of wh-questions
+wh_questions = ['what', 'when', 'how', 'why', 'which', 'who']
 
 # List of all categories
 bloom = [Creating, Evaluating, Analyzing, Applying, Understanding, Remembering]
@@ -17,3 +20,4 @@ level = {'0': 'Creating',
          '4': 'Understanding',
          '5': 'Remembering'
 }
+
