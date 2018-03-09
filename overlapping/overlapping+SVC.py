@@ -8,12 +8,13 @@ from sklearn.svm import LinearSVC
 #open file and selecting sheet 
 file='overlapping.xlsx'
 sheet=pd.ExcelFile(file)
-df=sheet.parse("Sheet1")
+df=sheet.parse("Sheet2")
 
 def labelEncoding(df):
 
 	label_encoding=preprocessing.LabelEncoder()
 	df['CategoryLabel']=label_encoding.fit_transform(df['Category'])
+
 	return df
 label_encode=labelEncoding(df)
 #writing the labels for categories into file
