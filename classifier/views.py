@@ -52,7 +52,7 @@ def find_category(question):
     for token in question:
         if str(token.text).lower() in bcl.wh_questions:
             return "Understanding"
-        if token.tag_=='VB' or token.tag_ == "WDT" or token.tag_ == "WP" or token.tag_ == "WP$" or token.tag_ == "WRB":
+        if token.tag_ =='VB' or token.tag_ == "WDT" or token.tag_ == "WP" or token.tag_ == "WP$" or token.tag_ == "WRB":
             verb = str(token.text)
             for b in bcl.bloom:
                 if verb.lower() in b:
@@ -138,7 +138,7 @@ def result(request):
     for token in question:
         if token.tag_ == "VB":
             verb = token.text
-            category = find_category(verb)
+            category = find_category(str(verb))
             break
     return render(request, 'classifier/result.html', {'verb': verb, 'category': category})
 

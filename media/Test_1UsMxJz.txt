@@ -1,0 +1,14 @@
+List the disadvantage of Leaky Bucket algorithm.
+Explain the importance of having robust routing algorithm.
+Explain the flooding algorithm for routing.
+Explain the Shortest Path Routing (Dijkstra).
+Explain the Distance Vector Routing.
+Explain the working of Link state routing algorithm.
+Explain the working of Congestion control at Network Layer.
+Illustrate the difference between Transparent Fragmentation and Non-transparent.
+Compare the Virtual Circuit with the Datagram.
+Compare the Circuit switched and Packet switched networks.
+Differentiate the connection oriented and connectionless services.
+Justify that there is Conflict between achieving fairness and optimality in routing algorithm.
+Justify the sentence that in TCP header the window size field can have value zero.
+Which of the following layers belong to the TCP/IP protocol stack?
