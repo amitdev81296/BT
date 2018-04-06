@@ -52,8 +52,8 @@ def find_category(question):
     for token in question:
         if str(token.text).lower() in bcl.wh_questions:
             return "Understanding"
-        if token.tag_ =='VB' or token.tag_ == "WDT" or token.tag_ == "WP" or token.tag_ == "WP$" or token.tag_ == "WRB":
-            verb = str(token.text)
+        if token.tag_ == 'VB' or token.tag_ == "WDT" or token.tag_ == "WP" or token.tag_ == "WP$" or token.tag_ == "WRB":
+            verb = str(token.text).lower()
             for b in bcl.bloom:
                 if verb.lower() in b:
                     verb_category_list.append(bcl.level[str(count)])
@@ -134,11 +134,6 @@ def index(request):
 
 def result(request):
     input_question = str(request.POST.get('input_question', None))
-    question = nlp(unicode(input_question, "utf-8"))
-    for token in question:
-        if token.tag_ == "VB":
-            verb = token.text
-            category = find_category(str(verb))
-            break
-    return render(request, 'classifier/result.html', {'verb': verb, 'category': category})
+    category = find_category(input_question)
+    return render(request, 'classifier/result.html', {'input_question': input_question, 'category': category})
 

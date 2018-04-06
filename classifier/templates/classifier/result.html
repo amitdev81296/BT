@@ -9,11 +9,11 @@
         }
         .container {
             padding-top: 13%;
-            padding-left: 31%;
+            padding-left: 15%;
         }
         .resizedTextbox {width: 300px; height: 20px}
         .demo-card-wide.mdl-card {
-            width: 512px;
+            width: 1000px;
         }
         .demo-card-wide > .mdl-card__menu {
             color: #fff;
@@ -21,19 +21,16 @@
     </style>
     <div class="container">
         <div style="padding: 5%" class="demo-card-wide mdl-card mdl-shadow--2d">
-            <div class="mdl-card__title">
-                <h2 class="mdl-card__title-text">Your Question Has Been Classified</h2>
-            </div>
             <center><table style="width: 100%">
                 <thead>
                     <tr>
-                        <th>Extracted Verb</th>
+                        <th>Question Submitted</th>
                         <th>BCL</th>
                     </tr>
                 </thead>
                 <tbody>
                     <tr>
-                        <td align="center">{{ verb }}</td>
+                        <td align="center">{{ input_question }}</td>
                         <td align="center">{{ category }}</td>
                     </tr>
                 </tbody>
