@@ -1,0 +1,545 @@
+Why CSMA/CD MAC protocol is not used in Satellite Systems?,Remembering,WT
+Explain the IMEI & IMSI structures of GSM network.,Understanding,WT
+Explain why only seven slaves are supported inside a Piconet.,Understanding,WT
+ Explain the terms DIFS,PIFS and SIFS with respect to DCF operation. ,Understanding,WT
+ With neat diagram, explain cdmaOne protocol architecture. ,Understanding,WT
+Explain the protocol architecture and security mechanism of DECT.,Understanding,WT
+List and explain the Downlink (Forward Link) Physical Channels and Uplink (Reverse) Physical Channels of cdma2000.,Understanding,WT
+ Determine the number of mobile users that can be supported by a sector of three - sector cell (10) of CDMA system. The RF bandwidth is 1.25 MHz to transmit data at 9.6 kbps. Eb/No — 6 dB, the interference from neighbouring cells p= 50% , the power control accuracy factor cL-0.85, the voice- activity factor v--0.6, and the improvement from sectorisation Y= 2.55 the voice- activity factor v--0.6, and the improvement from sectorisation Y= 2.55. ,Applying,WT
+What is WLL? Explain the MMDS & LMDS with the help of diagram. State its advantages & disadvantages.,Understanding,WT
+ With neat diagram, explain the IEEE 802.11 system architecture. ,Remembering,WT
+How is packet routing performed in Wireless Ad Hoc networks? Explain CGSR protocol.,Understanding,WT
+Explain the Wired Equivalent Privacy Protocol (WEP). State the different fields present in the WEP frame.,Understanding,WT
+Write a short note on spread spectrum.,Remembering,WT
+Write a short note on Wireless Lan Topologies. ,Remembering,WT
+Differentiate between a MAC address and an LLC address.,Understanding,WT
+What are the characteristics of the major 3G standards?,Remembering,WT
+State the relationship between HYPERLAN-2 and WATM.,Analysing,WT
+What is meant by overlaid cell concept in cell splitting?,Understanding,WT
+ In GSM network, there are some databases used for various purposes. What are these databases? What are their functions? ,Remembering,WT
+Describe major research issue or challange in 4G wireless network,Understanding,WT
+Illustrate the concepts of Frequency Hopping Spread Spectrum (FHSS) and Direct Sequence Spread Spectrum (DSSS) with suitable examples.,Understanding,WT
+Descirbe the GSM architecture. Describe different elements in this architecture.,Understanding,WT
+Describe the four major technologies for WLL systems. What are the advantages and disadvantages of these approaches?,Understanding,WT
+Explain the possible attacks on Wireless LAN. Explain WEP in detail.,Understanding,WT
+Discuss the HIPERLAN-1 PHY and MAC layers in detail.,Applying,WT
+Explain the reference model and protocol entities of WATM.,Understanding,WT
+Discuss the connection management followed in Bluetooth technology. Explain the frame format in Bluetooth technology.,Evaluating,WT
+Draw the network topology of IS-41 protocol? Explain the concepts of inter system handoff and automatic roaming?,Understanding,WT
+Suppose that an AMPS operator would like to migrate its network to 3G directly. Which technology should be chosen?,Analysing,WT
+Explain the VSAT system.,Understanding,WT
+Write a short note note on cdma2000., Understanding
+ ,WT
+Write a short note on economics of wireless network.,Understanding,WT
+Write a short note on OFDM.,Understanding,WT
+Write a short note on Mobile IP.,Understanding,WT
+Explain the IEFE 802.11 in detail.,Understanding,WT
+Explain the main factors of change in economics of Wireless Technology.,Understanding,WT
+Define piconet and scatternet. Explain Bluetooth Protocol Stack.,Understanding,WT
+Explain the WIMAX system and compare the different 802.1A standards.,Understanding,WT
+Explain the GPRS architecture and explain how authentication and encryption is provided in GSM.,Understanding,WT
+ Explain the 802.11 MAC management functions. Explain the Power Management
+function with a neat diagram.
+ ,Understanding,WT
+Explain the hidden and exposed terminal problem with solution.,Understanding,WT
+Why is the concept of spread spectrum important? Briefly explain FHSS and DSSS concept.,Understanding,WT
+ With a neat diagram, explain Electromagnetic Spectrum. List the advantages and disadvantages of wireless technology. ,Understanding,WT
+Neatly explain the WLL Architecture. Explain the two local loop techniques.,Understanding,WT
+Write a short note on Virtual Private Network (VPN).,Remembering,WT
+Write a short note on handoff strategies.,Remembering,WT
+What are challenges of wireless network? Explain how wireless networks have evolved?,Understanding,WT
+ Compare the Frequency Hopping Spread Spectrum (FHSS) and Direct Sequence
+Spread Spectrum (DSSS).
+ ,Understanding,WT
+Elaborate the concept of spectrum allocation .,Creating,WT
+Elaborate the concepts of service classes and applications.,Creating,WT
+Draw the cdma2000 protocol stack. Explain the cdma2000 MAC Sub layer enhancement and logical channels.,Understanding,WT
+Draw the wireless ATM architecture and specify physical layer requirement for Wireless ATM for low and high speed.,Remembering,WT
+Explain the Virtual Private Network (VPN) along with tunneling protocol .,Understanding,WT
+Compare the Wireless Local Loop and Wired Access.,Understanding,WT
+Explain the Bluetooth protocol stack.,Understanding,WT
+Write a short note on VSAT system.,Understanding,WT
+Explain the concept of Orthogonal Frequency Multiplexing (OFDM).,Remembering,WT
+Illustrate the FHSS and DSSS with suitable examples.,Understanding,WT
+Explain the functional architecture of a GSM system in detail.,Understanding,WT
+Explain the MMDS and LMDS working in WLL based technology in detail.,Understanding,WT
+Explain the IEEE 802.11 WLAN Architecture in detail.,Understanding,WT
+Explain the hidden terminal and exposed terminal problem with respect to WLAN in detail.,Understanding,WT
+Explain the wireless technology offered by IEEE 802a. ,Understanding,WT
+Explain the bluetooth protocol architechture with neat diagram.,Understanding,WT
+ 
+Explain the Bluetooth security aspect.  ,Understanding,WT
+Explain the WEP protocol in detail,Understanding,WT
+Write a short note on satellite systems.,Remembering,WT
+Write a short note on MACA.,Remembering,WT
+A mobile communication system is allocated RF spectnim of 25 MHz and uses RF channel bandwidth of 25 KI-Iz so that total number of 1000 voice channels can be supported in the system.a) channel bandwidth of 25 KI-Iz so that total number of 1000 voice channels can be supported in the system.b)        The cell size is reduced to the extent that the service area is now cow* with 100 cells. Compute the system while keeping the frequency reuse factor as 4.c) Consider the cell size is further reduced to that the service area is now co? red with 700 cells with the frequency reuse factor of 7.,Applying,WT
+Explain the GARS Architecture with neat diagram.,Understanding,WT
+Explain the COMAE Architecture with neat diagram.,Understanding,WT
+Give in detail comparison between WiMax and LTE.f3GPP. B. Explain in detail Bluetooth Protocol Stack with neat diagram,Understanding,WT
+Neatly explain the WLL Architecture. Explain the two local loop techniques with diagram,Understanding,WT
+Explain in detail GSM Privacy and Authentication with neat diagram,Understanding,WT
+Explain the main factors of change in economics of wireless technology. B. Explain the Wired Equivalent Privacy Protocol. Also explain WEP security based on the access control list with nea diagram,Understanding,WT
+Compare the CDMA 2000 & W-CDMA,Understanding,WT
+Explain the IEEE802.11 standards.,Understanding,WT
+Explain the wireless sensor networks,Understanding,WT
+What is the frequency range of the IEEE 802.11a standard?,Remembering,WT
+What is the maximum distance running the lowest data rate for 802.11b?,Remembering,WT
+Explain Cloud computing Architecture and Cloud components.,Understanding,CC
+Explain Security concerns in cloud computing.,Understanding,CC
+Explain how Microsoft Azure is  different from other open source cloud services and  explain Microsoft Azure life cycle,Understanding,CC
+Explain Microsoft Azure life cycle.,Understanding,CC
+Explain Windows Hypervisor technology and its relevance to Azure.,Understanding,CC
+What do you understand by Mesh? How will you add a system to a Mesh? How will you access a Mesh- Enabled Web application?,Remembering,CC
+Explain the advantages of REST over SOA web services.,Understanding,CC
+Briefly explain service oriented architecture and internet service bus.,evaluate,CC
+Compare Windows Azure Table Storage and SQL Database,Understanding,CC
+Explain how Azure maximizes data availability and minimizes security risk,Understanding,CC
+Explain cloud queues in detail.,Understanding,CC
+Explain auditing and regulatory standards relevant to adoption of cloud computing.,Understanding,CC
+Explain the significance of Partition keys and Rows keys in Azure Tables?,Understanding,CC
+Explain AppFabric Service Bus?,Understanding,CC
+ Describe a workflow that will illustrate the steps required to develop, build and deploy a simple web role cloud service to the cloud using windows azure. ,creating,CC
+Explain conceptual Architecture of Open Stack and its modes of operation.,Understanding,CC
+What is CSB? Explain its role with example.,Remembering,CC
+What are public cloud adoption phases for SMBs ? What are cloud vendor roles and responsibilities towards SMBs.,Remembering,CC
+What are the risks associated with  cloud computing.,Remembering,CC
+What are the fundamental requirements for cloud application architecture.,Remembering,CC
+ What is the need of virtualization? Define Server virtualization, Application virtualization, Presentation Virtualization. ,Remembering,CC
+ Compare the REST and REST paradigms in the context of programmatic communication between applications deployed on different cloud providers,
+or between cloud applications and those deployed in-house.
+ ,analysing,CC
+What do you mean by Parallel and Distributed Programming Paradigms in  detail? Explain about Hadoop Library from apache in detail.,Remembering,CC
+What is Data Migration?,Remembering,CC
+Discuss with examples how to write ANN operation using MapReduce model.,understanding,CC
+How is Amazon DynamoDB different from MYSQL database?,remembering,CC
+ Compare the following Bare-Metal hypervisor, Hosted hypervisor ,understanding,CC
+What are security groups & key pairs?,Remembering,CC
+What is there significance in Amazon AWS cloud computing environment?,Remembering,CC
+How does cloud architecture overcome the difficulties faced by traditional architecture?,remembering,CC
+What are the three differences that separate out cloud architecture from the traditional one?,Remembering,CC
+ Explain the two fundamental functions, identity management and  access control. ,Understanding,CC
+Enlist and explain three service models.,Understanding,CC
+Authorization management in cloud computing.,Understanding,CC
+What are the challenges in mobile and cloud shields.,remembering,CC
+Design Private cloud for the college keeping in mind everything as a services.,creating,CC
+ What do you mean by   elastic   behavior of cloud   ? ,Remembering,CC
+Differentiate Normal Web Hosting versus PaaS based Web Hosting.,analysing,CC
+Explain Core components of Windows Azure.,Understanding,CC
+Explain Virtualization ? How Virtualization employed in Azure.,Understanding,CC
+Differentiate REST vs SOA based Web services.,Understanding,CC
+What is the role of Fabric Controller in Windows.,Remembering,CC
+Explain REST operations and storage client APIs for Azure tables and Azure blobs.,Understanding,CC
+Explain the auditing and regulatory standards.,Understanding,CC
+How Azure Maximized data availability minimizes security risks.,Understanding,CC
+Explain Azure data Services  on Azure Queues.,Understanding,CC
+Explain Access Controversies.,Understanding,CC
+What are the types of cloud.,Understanding,CC
+Write Short Note on Basic SOA Architecture.,remembering,CC
+What is Windows Azure? Also explain developer facilities in Azure?,Remembering,CC
+Explain Windows Hypervisor technology and its relevance to Azure.,Understanding,CC
+What is difference between web roles and worker roles.,Remembering,CC
+ Describe a workflow that will illustrate the steps required to develop, build and deploy a simple web role cloud service to the cloud using windows azure. ,creating,CC
+Explain REST. How is it employed in Azure Table?,Understanding,CC
+Explain REST and SOA in the context of Azure.,Understanding,CC
+Explain Blob services and types of Blobs. What scenarios do the various three types apply to?,Understanding,CC
+Explain how Anna maximized data availability and minimizes security risks.,Understanding,CC
+List key features of cloud computing. How cloud space helps a common man?,remembering,CC
+What is SSL? Explain their significance in Windows Azure.,Remembering,CC
+Explain the significance of Partition Keys and Row keys in Azure Tables.,Understanding,CC
+How do Azure tables address scalability?,Understanding,CC
+Explain REST operations and storage Client APIs for Azure Queues.,Understanding,CC
+ Write a Short note on  1) PCIDSS 2) XaaS Cloud Services.,Understanding,CC
+What are cloud deployment models?,Remembering,CC
+Explain different types of hypervisor with example.,Understanding,CC
+Explain Openstack Architecture in detail.,Understanding,CC
+Explain Xen architecture in detail.,Understanding,CC
+What are the features of Google file system.,remembering,CC
+ Explain cloud Data.,Understanding,CC
+What are techniques for the risk assessment and management.,Remembering,CC
+Explain AAA model for cloud.,Understanding,CC
+What is the impact of shared resources and -Multi-Tenancy on cloud Applications.,Understanding,CC
+What are the fundamental requirements for cloud application.,Remembering,CC
+what is Cloud Service Brokerage?,Remembering,CC
+what is Mobile cloud Computing?,Remembering,CC
+short note on  Amazon simpleDB.,remembering,CC
+short note on Modes of Eucalyptus.,remembering,CC
+What are advantages and limitations of Cloud Computing.,Remembering,CC
+What are the levels used for virtualization.,Remembering,CC
+Differentiate between cloud and traditional application Architecture.,Understanding,CC
+What are the factors for successful cloud deployment.,Remembering,CC
+Explain different OPENSTACK cloud services with architecture.,Understanding,CC
+Explain the architecture and features of EBS.,Understanding,CC
+What is virtualization? Explain any one virtualization architecture?,Remembering,CC
+Explain cloud based service delivery and deployment odds with example.,Understanding,CC
+ Explain different risks and mitigation techniques.,Understanding,CC
+Explain AAA model.,Understanding,CC
+Define cloud computing? Explain essential characteristics of cloud computing?,remembering,CC
+Explain benefits of laaS.,Understanding,CC
+Explain the cloud deployment model.,Understanding,CC
+Write short note on SaaS.,remembering,CC
+State and describe life cycle of SLA.,understanding,CC
+What is virtualization? Explain different types of virtualization.,Remembering,CC
+State and explain different phases of SLA management of applications hosted on cloud platform.,applying,CC
+Discuss two ways of determining Trust.,creating,CC
+Describe issues related to the run time interaction between DomO and DomU.,creating,CC
+Discuss the undesirable effects of virtualization.,creating,CC
+Write short note on cloud implementation and application.,remembering,CC
+Explain the services offered by Amazon S3.,Understanding,CC
+Explain the open source cloud 'open Nebullaa'.,Understanding,CC
+Describe methods to acquire user input related to Human Centred Design.,Understanding,CC
+Enlist and explain benefits of using wireless networks for UbiCom.,Understanding,CC
+Describe challenges in modeling context.,Understanding,CC
+Write short note on Ubiquitous System Challenge and outlook,understanding,CC
+Define cloud computing. Discuss different cloud computing service models.,remembering,CC
+Explain the characteristics of cloud.,Understanding,CC
+Define cloud computing. Explain deployment models of CC.,Understanding,CC
+Explain the benefits of IaaS.,Understanding,CC
+Explain the need of virtualization.,Understanding,CC
+Describe different types of virtualization.,Understanding,CC
+What is hypervisor. Explain different hypervisors & their features.,Understanding,CC
+What is SLA? Explain type of SLA.,Understanding,CC
+Enlist features of federation types.,remembering,CC
+Explain RESERVOIR architecture with major components and interfaces.,Understanding,CC
+Explain in brief the services offered by cloud computing.,Understanding,CC
+Enlist the essential characteristics of cloud computing.,Understanding,CC
+Explain in brief advantages and limitations of cloud computing.,Understanding,CC
+Compare Public cloud and Private cloud.,Understanding,CC
+Explain the virtualization techniques in cloud computing.,Understanding,CC
+Enlist features of federation types. Explain any one in brief.,understanding,CC
+Discuss in brief following basic principles of cloud computing.,remembering,CC
+ Compare KVM, Xen and Hyper V. ,understanding,CC
+Describe in brief 'Operating System Security'.,understanding,CC
+Enlist and describe security risks posed by shared images.,understanding,CC
+Discuss the top security concerns for cloud users.,creating,CC
+Discuss two ways of determining trust.,creating,CC
+Explain Google App Engine with diagram.,Understanding,CC
+Write short note on 'Open nebulla'.,Understanding,CC
+Explain the storage services offered by Amazon EC2 cloud.,Understanding,CC
+State and explain any two cloud computing applications.,Understanding,CC
+Describe Context Aware operational life cycle.,Understanding,CC
+Discuss any four common myths about ubiquitous computing.,remembering,CC
+Describe methods to acquire user Inputs related to human centered.,Understanding,CC
+Explain in brief following terms with reference to cloud computing:  On demand self provisioning and Elasticity.,Understanding,CC
+Which type of Cloud service is provided by gmail ? justify.,evaluating,CC
+Explain the virtualization techniques in cloud computing.,Understanding,CC
+Enlist features of federation types. Explain any right in brief.,Understanding,CC
+Discuss the top security concerns for cloud users.,Understanding,CC
+Enlist and describe security risk posed by shared images.,Understanding,CC
+Enlist and explain different forms of Trust.,Understanding,CC
+Discuss different aspects related to contract between the user and the Cloud Service Provider to minimize security risks.,creating,CC
+Explain Google App Engine with the help of diagram.,Understanding,CC
+State and explain any two cloud computing applications.,Understanding,CC
+Explain the storage services offered by Amazon EC2 cloud.,Understanding,CC
+Describe Context Aware operations life cycle.,understanding,CC
+Discuss any four common myths about ubiquitous computing.,understanding,CC
+Compare Multi Computer Systems with Multi Processor Systems,understanding,DS
+What are the various forms of Message–Oriented Communication ? Give example 10 of each,Remembering,DS
+Explain Code Migration and the role of Mobile agents,Understanding,DS
+Explain the process of Remote Method Invocation using stubs/proxy/skeleton.,Understanding,DS
+What is Totally Ordered Multicasting ? How Lamport Clock is implemented,Remembering,DS
+Explain architecture of DNS and also Name Resolution,Understanding,DS
+Explain Distributed algorithm for Mutual Exclusion. What are its advantages/ 10 disadvantages over Centralized algorithms,Understanding,DS
+Compare NOS with DOS and middleware,understanding,DS
+Explain Vertical and Horizontal services of CORBA,Understanding,DS
+Explain the difference between Data Centric and Client Centric Consistency Models. 10 Explain one scheme of each,Understanding,DS
+What is failure semantics explain wrt to RMI,Remembering,DS
+Explain how Distributed Transaction Management is achieved,Understanding,DS
+Compare NOs with DOs,understanding,DS
+Discuss clock synchronization mechanism in distributed operatingsystem,creating,DS
+Compare and contrast the usefulness of stateless server with a stateless server. Highlight their application areas,evaluate,DS
+Explain any algorithm designed to provide mutual exclusion in a distributed  environment.,Understanding,DS
+ Explain clearly, with the help of suitable diagram, how RPC is implemented ,Understanding,DS
+ Explain, what are possible failures that can happen during RPC ,Understanding,DS
+ Explain with example, threads and processes. Discuss differences and similarities 10 between threads and processes ,Understanding,DS
+Explain marshalling / unmarshalling mechanism in RPC/RMI,Understanding,DS
+Explain locating mobile entities in detail,Understanding,DS
+Explain the goals of distributed system,Understanding,DS
+Explain commit in distributed transaction,Understanding,DS
+What is CORBA ? Explain its architecture and various services provided by it.,Remembering,DS
+short note on CODA file system,Remembering,DS
+short note on Code Migration,remembering,DS
+short note on Security mechanism in distributed system,remembering,DS
+short note on sun network file systems,remembering,DS
+short note on crash and recovery,remembering,DS
+List the issues to be considered in the design of distributed object systems,analysing,DS
+Explain in detail the different type of client/server architecture with neat diagrams,Understanding,DS
+State the characteristics of RPC middleware. Explain RPC mechanism,remembering,DS
+Explain the process of RMI using stubs/proxy/skeletons,Understanding,DS
+What is CORBA ? Explain its architecture and various services provided by it.,Remembering,DS
+Differentiate JavaBean with EJB,analysing,DS
+Explain working of DCOM,Understanding,DS
+ Compare CORBA, DCOM and RMI ,analysing,DS
+What .are the functions of Enterprise Service Bus. State its advantages and disadvantages,Remembering,DS
+Explain the role of XML in Web Services,Understanding,DS
+Describe the structure of WSDL file. State the importance of UDDI,Understanding,DS
+What are the challanges in SOA,remembering,DS
+ short notes  (a)        Simple Object Access Protocol (SOAP)
+(b)        BPEL for Web Services
+(c)        Message Queues
+(d)        Types of Servers.
+ ,remembering,DS
+What is server ? Explain in detail the classification of servers in client servers model 10 with their characteristics pros and cons,Remembering,DS
+ Compare and contrast RMI, CORBA and DCOM ,analysing,DS
+Explain the working of the dynamic invocation in CORBA,Understanding,DS
+What are the components of CORBA components model (CCM). List the advantages of CCM,Remembering,DS
+Why should we use EJB ? ,remembering,DS
+What is Marshalling ? Explain Standard Marshalling,Understanding,DS
+Explain in detail the components of NET,Understanding,DS
+Explain in Service Oriented Architecture (SOA) lifecycle,Understanding`,DS
+List the features and functions of Enterprise Service Bus (ESB,remembering,DS
+Describe Web Services Description Language (WSDL,understanding,DS
+What are the three major elements in .the Simple Object Access Protocol (SOAP) 10 How are SOAP messages processed ?,remembering,DS
+Write short notes on WS-Standards,remembering,DS
+Write short notes on COM threading Models,remembering,DS
+Write short notes on RPC Middleware,remembering,DS
+Write short notes on Business Value of SOA,remembering,DS
+Write short notes on CORBA Applications,remembering,DS
+List types of failures in message passing system and bow to giver came them,remembering,DS
+Define Happen.ed-Before relationship.,remembering,DS
+Compare Stateful and Stateless server implementation,analysing,DS
+Explain what is a callback RPC.,understanding,DS
+Compare NOS and DOS,understanding,DS
+Compare Bully Election Algorithm with ring based election algorithm,analysing,DS
+Explain the need of distibuted deadlock detection algorithrns. Explain probe based distributed system,Understanding,DS
+ Define Happened-Before relatioship, Explain implementation ,understanding,DS
+Describe .NET architecture,understanding,DS
+What are the reasons fog migration of code? Explain the various models  for code migration,evaluating,DS
+Compare RMI COMM and DCOM,analysing,DS
+ Explain ORBA IDL, Write a program for CORBA I Di, ,Understanding,DS
+Compare POA and BOA,understanding,DS
+Describe SOAP,understanding,DS
+Differentiate javabeans and enterprise javabeans,understanding,DS
+Mention and explain the different features or distributed computing environment,understanding,DS
+What is a Web service? Explain the different types of web services,remembering,DS
+What are the challenges faced by distributed system,remembering,DS
+What do you understand by middleware ? State the advantage of ORB architecture,remembering,DS
+Explain client-server architecture. What are its variations or types of client-server architecture,Understanding,DS
+State the disadvantage of standard RPC. List the characteristics of RMI.,remembering,DS
+How is remote CORBA object invocated ? Explain RMI in CORBA.,evaluate,DS
+List the components of EJB framework. What is the purpose of EJB container,remembering,DS
+Explain DCOM and .NET framework,Understanding,DS
+Define service. How is a business servive implemented,remembering,DS
+Discuss SOA and Web Service,remembering,DS
+How would you align business and IT using SOA ? How will you implement a WS using an agent ?,applying,DS
+What are WS-standards ? Explain WS-Security Framework.,remembering,DS
+explain WS-transactions,remembering,DS
+explain COM-IDL.,remembering,DS
+Explain the term nmitie• architecture with an example,Understanding,DS
+Describe in brief what you understand by SOA,Understanding,DS
+Give an overview of different types of middleware models,remembering,DS
+Give a brief overview of .net architecture,remembering,DS
+Describe the steps involved in deploying an EJB application,Understanding,DS
+Describe the CORBA architecture with the help of a block diagram,understanding,DS
+ What are the different types of   beans   one can define in an EJB application ,remembering,DS
+Give the DTD for the XML schema for the described system,applying,DS
+What do you mean by a web service? Describe the different Web Services standards,understanding,DS
+What is the role of IDL? Using CORBA IDL define interfaces to objects in an online,remembering,DS
+explain library management system,evauating,DS
+Explain the concept of IP Address and Subnet Mask,Understanding,CN
+Compare the Circuit switched and the Packet switched networks.,Understanding,CN
+Explain the Selective Repeat Protocol.,Understanding,CN
+Explain the concept of Piggybacking,Understanding,CN
+What is OSI model? Give the function and services of each layer. ,Remembering,CN
+What are three main function of Network layer? What is Routing? Explain shortest path Routing.,Remembering,CN
+Draw and explain the TCP segment header.,Understanding,CN
+Explain the CSMA/CD protocol.,Understanding,CN
+ Compare the 802.3, 802.4 and 802.5 IEEE standards. ,Understanding,CN
+Explain HDLC protocol along with its different frame structure. ,Understanding,CN
+What is congestion control and what are the causes of congestion? Explain Token Bucket algorithm ,Understanding,CN
+What are the elements of Transport Layer?,Remembering,CN
+Write a short note on  Network Topologies.,Remembering,CN
+Write a short note on Traditional Ethernet.,Remembering,CN
+Write a short note on Mobile Telephone System,Remembering,CN
+Write a short note on Routing Information Protocol (RIP).,Remembering,CN
+Write a short note on Berkely Socket.,Remembering,CN
+ What is a network ? What are its goals and applications?,Remembering,CN
+Differentiate between the TCP and UDP.,Understanding,CN
+Explain the concept of framing in Data Link Layer.,Remembering,CN
+What is OSI modes? Give the function and services of each layer.,Remembering,CN
+Explain the HDLC protocol along with its different frame structures.,Understanding,CN
+Explain CSMA/CD protocol.,Understanding,CN
+Describe the different Guided Transmission Media.,Remembering, CN
+ 
+Explain the concept of Repeaters with an example. ,Understanding,CN
+Explain the concept of Routers with an example. ,Understanding,CN
+Explain the concept of Hubs with an example. ,Understanding,CN
+Explain the concept of Switches with an example. ,Understanding,CN
+Explain the concept of Bridges with an example. ,Understanding,CN
+What is IP Address? Explain the IPV4 datagram format.,Understanding,CN
+Explain the TCP Segment Header format.,Understanding, CN
+ 
+ Compare the LAN, WAN and MAN. ,Understanding,CN
+Explain the various network topologies,Understanding,CN
+Explain the concept of Public Switched Telephone Network (PSTN).,Understanding,CN
+Explain the concept of Berkely Sockets.,Understanding,CN
+Explain the concept of Sliding Window protocol.,Understanding,CN
+Write a short note on GSM Operation Subsystem.,Remembering,CN
+Write a short note on Networking using Windows and Linux Operating Systems.,Remembering, CN
+ 
+Write a short note on  Internet Control Protocol.,Remembering,CN
+Write a short note on Mobile Telephone System.,Remembering,CN
+Write a short note on BGP.,Remembering,CN
+Explain the following terms - (i) Repeaters (ii) Switches (iii) Hubs (iv) Routers (v) Bridges.,Understanding,CN
+What are the elements of Transport Layer.,Understanding,CN
+Explain the TCP Sliding Window protocol with neat diagram,Understanding,CN
+Explain the HDLC protocol with suitable diagram.,Understanding, CN
+ 
+Explain the Connection Establishment and Ty ruination in TCP with neat diagram.,Understanding,CN
+Explain the functions of data link layer.,Understanding,CN
+What are three main function of Network layer? What is Routing? Explain Distance vector Routing. ,Remembering,CN
+Discuss and compare various types of networks.,analysing,CN
+Explain the concept of Framing in Data link layer.,Understanding,CN
+Compare the slotted ALOHA and the Pure ALOHA.,Understanding,CN
+Explain the selective repeat protocol.,Understanding, CN
+ 
+Explain the concept of TCP Timer.,Understanding,CN
+What are the different types of routing algorithms? Explain the shortest path routing algorithm.,Remembering,CN
+Compare the Linux and Windows operating systems.,Understanding,CN
+What is OSI model? Give the functions and services of each layer.,Remembering,CN
+Explain the Guided Transmission media in detail.,Understanding,CN
+Explain the TCP Congestion Control.,Understanding,CN
+Explain the concept of IP Address.,Understanding, CN
+ 
+Expain the concept of Subnet Mask.,Understanding,CN
+An IPV4 packet has arrived with the first 8 bits 0100 0010.The receiver discards the packet? Why? ,analysing,CN
+Explain the concept of TCP Congestion Control.,Understanding,CN
+ What is HDLC? Explain the frame formats of I-frame, U-frame and S-frame. ,Remembering,CN
+Compare the Connectionless and Connection-Oriented services.,Understanding,CN
+Explain the working of Traditional Ethernet.,Understanding,CN
+Write a short note on BGP.,Remembering, CN
+ 
+Write a short note on CDMA/CA,remembering,CN
+ Write short notes on bridges, sCNiches and routers. ,remembering,CN
+Explain the concept of CRC with example.,Understanding,CN
+Explain the collision detection procedure in CSMA/CD.,Understanding,CN
+Compute n-bit binary CRC if the message is 11010011101100 and divisor is 1011.,evaluating,CN
+ What are the three main functions performed by network layer?,Remembering,CN
+Explain the distance vector routing protocol.,Understanding, CN
+ 
+Waht is a network? What are its goals and applications?,Remembering,CN
+Differentiate between TCP and UDP. Explain framing.,understanding,CN
+Write a short note on Data Link Layer,Remembering,CN
+What is the OSI model? Give the function and services of each of its layers.,Remembering,CN
+Explain the CSMA/CD protocol.,Understanding,CN
+Describe the different Guided Transmision Media.,understanding,CN
+What is an IP Address?,Remembering, CN
+ 
+What is OSI model ? Give the function of its layers.,Remembering,CN
+How congestion is controlled in TCP?,Remembering,CN
+What is routing in network? Explain the shortest path routing protocol.,Remembering,CN
+Explain the different classes of IP addresses and need of subnetting with the help of example.,Understanding,CN
+ Differentiate between the concepts of message switching, circuit switching and packet switching ,Understanding,CN
+Differentiate between TCP and UDP.,Understanding,CN
+Write a short note on HDLC.,Remembering, CN
+ 
+ Write a short note on TCP Timers., ,Remembering,CN
+Compare the Slotted ALOHA and the Pure ALOHA.,Understanding,CN
+Explain the concepts of IP Address and Sublet Mask.,Understanding,CN
+Compare the Circuit Switched and Packet Switched networks.,understanding,CN
+Explain the Selective Repeat Protocol.,Understanding,CN
+What is piggybacking?,Remembering,CN
+Explain the HLAC protocol along with its different frame structure.,understanding, CN
+ 
+What are the elements of Transport Layer?,Remembering,CN
+Discuss the Fast Ethernet technology in brief. State its specification.,understanding,CN
+Explain the CSMA and CSMA/CD. Also comment on the efficiency of each.,Understanding,CN
+ Explain the FDMA, TDMA and CDMA in detail. ,Understanding,CN
+ Discuss CSMA/CA random access technique. How is collision
+avoidance achieved in this technique ?
+ ,Understanding,CN
+Explain the concepts of Error Detection and Correction in Block coding.,Understanding,CN
+What is the purpose of Domain Naming System (DNS)?,Remembering, CN
+ 
+What is topology? Explain the star topology in brief.,Remembering,CN
+ A network with bandwidth of 10 Mbps can pass only an average of 12,000 frames per minute with each frame carrying an average of 10,000 bits. What is the throughput of this network? ,applying,CN
+Explain the distance vector routing protocol.,Understanding,CN
+What is network? Explain in brief about LAN and MAN.,Remembering,CN
+Explain the terms Processing Delay and Transmission Delay.,understanding,CN
+What is routing loop? Discuss routing loop avoidance techniques.,Remembering,CN
+Explain the HTTP GET and HTTP POST methods in detail.,Understanding, CN
+ 
+Draw the layered architecture of TCP/IP model and write at least two services provided by each layer of the model.,Remembering,CN
+What are the issues of stop and wail protocol at transport layer? How selective repeat protocol resolves issues of stop and wait protocol?,Remembering,CN
+How is UDP checksum value calculated? Explain with a suitable example.,applying,CN
+Draw the structure of TCP Segment and justify the importance of its field values.,Understanding,CN
+Explain the connection less service of network layer.,Understanding,CN
+What is proxy server? What are the benefits of caching proxy server?,Remembering,CN
+Explain IPv4 datagram format and importance of each field.,Understanding, CN
+ 
+Differentiate between IPv4 and IPv6.,Remembering,CN
+Write a short note on Dynamic Host Configuration Protocol (DHCP).,Understanding,CN
+Explain the working of DHCP with transition diagram.,Understanding,CN
+Write the characteristics of radio propagation and propagation impairments.,remembering,CN
+Explain the Bluetooth architecture and its protocol stack.,Understanding,CN
+How to overcome the problems in RIP?,remembering,CN
+Explain the basic architecture of WLAN and discuss various components in it.,Understanding, CN
+ 
+Discuss the naming and addressing in wireless sensor network.,creating,CN
+State the different MAC protocols in sensor network? Explain the S-MAC in detail.,Understanding,CN
+What are the different design issues and challenges of wireless sensor network?,Remembering,CN
+Explain in detail the CSMA/CA.,Understanding,CN
+Differentiate between the content based and the geographic routing,Understanding,CN
+Explain SPIN routing protocol for WSN.,Understanding,CN
+What are the advantages and disadvantages of BYOD,Remembering, CN
+ 
+List demerits of unguided transmission media,Remembering,CN
+Explain the working principle of bridges,Understanding,CN
+Explain the working principle of stop and wait protocol,Understanding,CN
+Explain the working principle of CSMA,Understanding,CN
+Explain working principle of wireless IAN protocols,Understanding,CN
+Discuss the working principle of UDP,applying,CN
+Explain working principle of limited contention protocols,Understanding, CN
+ 
+Discuss the working principle of TCP,Remembering,CN
+Explain in detail OSPF,Understanding,CN
+List difference between Transport layer and Network layer,Analysing,CN
+Explain in detail IPV6,Understanding,CN
+Explain in detail Virtual LANs,Understanding,CN
+List difference between OSI and TCO/IP model,Understanding,CN
+Draw the layered architecture of OSI reference model and write the at least two 06 services provided by each layer of the model,Remembering, CN
+ 
+Why distributed database design is more preferred over centralized design to 08 implement DNS in the Internet? Justify. Also explain the way of DNS servers to handle the recursive DNS query using suitable diagram.,Evaluating,CN
+ Explain the working of electronic mail protocols SMTP, IMAP and POP3 in brief 08 with suitable diagram ,Understanding,CN
+What do you mean by congestion and overflow? Explain the slow-start 07 component of the TCP congestion-control algorithm,Understanding,CN
+Explain the TCP Segment structure and justify the importance of its field values,Understanding,CN
+Explain IPv4 datagram format and importance of each filed,Understanding,CN
+How pipeline approach improves the overall sender utilization time? Explain Go-Back-N pipeline approach in transport layer.,understanding,CN
+How many packets overhead while doing the data communication using TCP,Applying, CN
+ 
+Explain the Link-State (LS) routing algorithm,Understanding,CN
+Explain slotted ALOHA channel access technique,Understanding,CN
+Explain Distance-Vector (DV) routing algorithm,Understanding,CN
+Explain ARP and justify why ARP query sent within a broadcast frame and ARP 07 response sent within a frame with specific destination MAC address?,evaluating,CN
+Explain the various transmission impairments in data communication.,Understanding,CN
+List the Line Coding schemes in digital transmission,Remembering,CN
+Define spread spectrum. Explain FHSS and DSSS,understanding, CN
+ 
+State and explain the Nyquist theorem and Shannon capacity and solve the following example,understanding,CN
+What is circuit switching ? Explain circuit switching in detail with its advantages and disadvantages,Remembering,CN
+Explain ISO/OSI model in detail,Understanding,CN
+Write a short note on Fiber optic cable,remembering,CN
+What is Hamming distance ? Explain it with an example. Explain simple parity check code.,Remembering,CN
+Explain Error Detection and Correction in Block Coding.,Understanding,CN
+What is CRC ? Explain CRC generator and CRC checker with suitable example.,Remembering, CN
+ 
+What is Checksum ? Describe in detail internet Checksum method with suitable example,Remembering,CN
+What is HDLC ? Explain with the help of its frame format. Describe all fields in detail.,Remembering,CN
+ Differentiate : 10Base2, 10Base5 and 10BaseT specification ,Understanding,CN
+Write a short note on Spread Spectrum,Remembering,CN
+Write a short note on transmission modes in detail,Remembering,CN
+Explain guided media with suitable diagrams,understanding,CN
+Write a short note on internet checksum,understanding, CN
+ 
+ Compare and contrast circuit switched network with packet,analysing,CN
+Explain different addressing schemes in TCP/IP model.,Understanding,CN
+What is CRC ? Generate the CRC code for message 1101010101.,Remembering,CN
+Discuss the concept of redundancy in error detection and correction.,Understanding,CN
+ Explain in detail Go-Back-N and Selective Repeat ARQ System,Understanding,CN
+Discuss Fast Ethernet technology in brief. State its specification,creating,CN
+Explain CSMA and CSMA/CD. Also comment on the efficiency of each,Understanding, CN
+ 
+Distinguish between baseband transmission and broadband transmission.,understanding,CN
+Explain pulse code modulation,understanding,CN
+Explain ISO-OSI model in detail,understanding,CN
+Explain  the Go-back-N automatic repeat request protocol,understanding,CN
+Write a short note on TCP/IP protocol stack,remembering,CN
