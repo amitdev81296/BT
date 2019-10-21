@@ -15,7 +15,7 @@ idna==2.6
 msgpack-numpy==0.4.1
 msgpack-python==0.5.4
 murmurhash==0.28.0
-nltk==3.2.5
+nltk==3.4.5
 numpy==1.14.0
 pandas==0.22.0
 pathlib==1.0.1
