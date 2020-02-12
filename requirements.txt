@@ -3,7 +3,7 @@ chardet==3.0.4
 cymem==1.31.2
 cytoolz==0.8.2
 dill==0.2.7.1
-Django==1.11.9
+Django==1.11.28
 django-admin==1.1.1
 django-excel-response2==2.0.8
 django-six==1.0.4
